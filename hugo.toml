@@ -1,4 +1,4 @@
-baseURL = "http://www.aixwim.cloud"
+baseURL = "http://www.aixwim.cloud/"
 title = "AIXWIM"
 theme = "hugo-coder"
 languageCode = "en"
@@ -10,7 +10,7 @@ enableEmoji = true
 [services]
 [services.disqus]
 # Enable Disqus comments
-# shortname = "yourdiscussshortname"
+shortname = "aixwim"
 
 [markup.highlight]
 noClasses = false
@@ -22,7 +22,7 @@ description = "Aixwim personal blog"
 keywords = "blog,personal"
 info = ["Blogger"]
 avatarURL = "images/avatar.jpg"
-#gravatar = "john.doe@example.com"
+# gravatar = "gravatar.com/aixwim"
 dateFormat = "January 2, 2006"
 since = 2024
 # Git Commit in Footer, uncomment the line below to enable it
@@ -59,7 +59,7 @@ customRemoteJS = []
 # [params.plausibleAnalytics]
 # domain = "example.com"
 # serverURL = "analytics.example.com" # Default value is plausible.io, overwrite this if you are self-hosting or using a custom domain
-# outboundLinksTracking = true
+ outboundLinksTracking = true
 # fileDownloadsTracking = true
 
 # If you want to use goatcounter(https://goatcounter.com) for analytics, add this section
@@ -109,12 +109,12 @@ customRemoteJS = []
 # framesrc = ["'self'", "https://www.youtube.com"]
 # imgsrc = ["'self'"]
 # objectsrc = ["'none'"]
-# stylesrc = [
-#   "'self'",
-#   "'unsafe-inline'",
-#   "https://fonts.googleapis.com/",
-#   "https://cdn.jsdelivr.net/",
-# ]
+ stylesrc = [
+   "'self'",
+   "'unsafe-inline'",
+   "https://fonts.googleapis.com/",
+   "https://cdn.jsdelivr.net/",
+ ]
 # scriptsrc = [
 #   "'self'",
 #   "'unsafe-inline'",
@@ -143,6 +143,11 @@ icon = "fa-brands fa-x-twitter fa-2x"
 weight = 3
 url = "https://twitter.com/aixwim/"
 
+[[params.social]]
+name = "Tiktok"
+icon = "fa-brands fa-tiktok fa-2x"
+weight = 3
+url = "https://tiktok.com/@aixwim/"
 
 [[params.social]]
 name = "RSS"
