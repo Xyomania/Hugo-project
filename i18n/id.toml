@@ -1,0 +1,119 @@
+# Terjemahan kategori dan tag
+[categories]
+one = "kategori"
+other = "kategori"
+
+[tags]
+one = "label"
+other = "label"
+
+[series]
+one = "seri"
+other = "seri"
+
+[authors]
+one = "penulis"
+other = "penulis"
+
+# Terjemahan umum untuk halaman
+[posts]
+other = "artikel"
+
+[reading_time]
+one = "bacaan satu menit"
+other = "bacaan {{ .Count }} menit"
+
+# Halaman tidak ditemukan
+[page_not_found]
+other = "Halaman tidak ditemukan"
+
+[page_does_not_exist]
+other = "Maaf, halaman ini tidak ada."
+
+[head_back]
+other = "Anda dapat kembali ke <a href=\"{{ . }}\">beranda</a>."
+
+# Lisensi dan powered by
+[licensed_under]
+other = "Licensed under"
+
+[powered_by]
+other = "Dipersembahkan oleh"
+
+# Artikel terkait
+[see_also]
+other = "artikel terkait"
+
+# Catatan dan Tip
+[note]
+other = "catatan"
+
+[tip]
+other = "tip"
+
+[example]
+other = "contoh"
+
+# Teks pertanyaan dan info
+[question]
+other = "pertanyaan"
+
+[info]
+other = "info"
+
+# Peringatan dan kesalahan
+[warning]
+other = "peringatan"
+
+[error]
+other = "kesalahan"
+
+# Tautan ke judul
+[link_to_heading]
+other = "Tautan ke judul"
+
+# Halaman utama
+[about]
+other = "Tentang"
+
+[blog]
+other = "Blog"
+
+[contact]
+other = "Hubungi Saya"
+
+[welcome_message]
+other = "Selamat datang di situs saya"
+
+# Menu navigasi
+[menu]
+home = "Beranda"
+about = "Tentang"
+posts = "Artikel"
+contact = "Kontak"
+search = "Pencarian"
+
+# Filter dan Pencarian
+[search]
+search_results = "Hasil Pencarian"
+no_results = "Tidak ada hasil ditemukan"
+
+# Meta deskripsi
+[meta]
+description = "Situs pribadi yang menyediakan artikel tentang berbagai topik."
+author = "Penulis Situs"
+keywords = "blog, teknologi, gaya hidup, berita"
+
+# Pencarian dan Pencarian Lebih Lanjut
+[read_more]
+other = "Baca lebih lanjut"
+
+# Komentar
+[comments]
+leave_a_comment = "Tinggalkan komentar"
+post_comment = "Kirim komentar"
+comment_placeholder = "Tulis komentar Anda di sini..."
+
+# Pengingat
+[reminder]
+new_post = "Pos baru telah dipublikasikan"
