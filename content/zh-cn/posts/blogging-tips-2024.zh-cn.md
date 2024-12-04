@@ -14,9 +14,9 @@ categories = [
 ]
 series = ["博客成功之道"]
 aliases = ["博客-技巧-2024"]
-images = ["/images/blogging-tips-2024.webp"]
+images = ["/images/featured/blogging-tips-2024.webp"]
 +++
-![blogging tips 2024](/images/blogging-tips-2024.webp)
+![blogging tips 2024](/images/featured/blogging-tips-2024.webp)
 
 
 成功创建一个博客网站不仅仅需要一个好点子。在如今过于饱和的数字环境中，无数博客争相吸引注意力，因此区分你的网站尤为重要。无论你是在启动一个新博客还是重新设计现有博客，关键在于找到你的细分领域，并以独特的方式为读者提供价值。以下是一些打造独特博客网站并吸引忠实读者的建议。
