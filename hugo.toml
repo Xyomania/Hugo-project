@@ -3,7 +3,7 @@ title = "AIXWIM"
 author = "Aixwim"
 copyright = "Aixwim"
 languageCode = "en"
-theme = "tailwind"
+theme = "hugo-coder"
 
 [pagination]
 pagerSize = 6
