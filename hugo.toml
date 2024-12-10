@@ -6,7 +6,7 @@ languageCode = "en"
 theme = "PaperMod"
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]  # necessary for search
+home = ["HTML", "RSS", "JSON"] # Necessary for search
 
 [pagination]
 pagerSize = 6
@@ -24,9 +24,8 @@ keywords = ["blog", "personal blog", "shopping", "business", "finance", "games",
 author = "Me"
 images = ["/images/"]
 DateFormat = "January 2, 2006"
-defaultTheme = "auto"  # dark, light
+defaultTheme = "auto" # dark, light
 disableThemeToggle = false
-
 ShowReadingTime = true
 ShowShareButtons = true
 ShowPostNavLinks = true
@@ -45,9 +44,11 @@ tocopen = true
 enableInlineShortcodes = true
 enableRobotsTXT = true
 
+[params.analytics.google]
+SiteVerificationTag = "G-PWLWH73DHK"
+
 disqusShortname = "aixwim"
 
-# Assets
 [params.assets]
 favicon = "/favicon.ico"
 favicon16x16 = "/favicon-16x16.png"
@@ -55,7 +56,6 @@ favicon32x32 = "/favicon-32x32.png"
 apple_touch_icon = "/apple-touch-icon.png"
 safari_pinned_tab = "/favicon-96x96.png"
 
-# Social Media Links
 [[params.social]]
 name = "Github"
 icon = "fa-brands fa-github fa-2x"
@@ -74,7 +74,6 @@ icon = "fa-brands fa-tiktok fa-2x"
 weight = 3
 url = "https://tiktok.com/@aixwim/"
 
-# Profile Mode
 [params.profileMode]
 enabled = false
 title = "Aixwim"
@@ -85,19 +84,16 @@ imageHeight = 120
 imageTitle = "Aixwim Avatar"
 buttons = [{name = "Posts", url = "/posts/"}, {name = "Tags", url = "/tags/"}]
 
-# Cover Configuration
 [params.cover]
 hidden = false
 hiddenInList = false
 hiddenInSingle = false
 
-# Edit Post
 [params.editPost]
 URL = "https://github.com/Xyomania/xyomania.github.io"
 Text = "Suggest Changes"
 appendFilePath = true
 
-# Search (Fuse.js options)
 [fuseOpts]
 isCaseSensitive = false
 shouldSort = true
@@ -108,7 +104,6 @@ minMatchCharLength = 0
 limit = 10
 keys = ["title", "permalink", "summary", "content"]
 
-# Menu Configuration
 [menu]
 [[menu.main]]
 identifier = "about"
@@ -142,7 +137,7 @@ weight = 6
 rel = "alternate"
 type = "application/rss+xml"
 
-# Pygments settings
+[markup.pygments]
 pygmentsUseClasses = true
 
 [taxonomies]
@@ -151,7 +146,6 @@ tag = "tags"
 series = "series"
 author = "authors"
 
-# Languages settings
 [languages]
 [languages.en]
 languageName = "English"
@@ -170,7 +164,7 @@ weight = 2
 url = "/posts/"
 
 [[languages.en.menu.main]]
-name = "Contact me"
+name = "Contact Me"
 weight = 3
 url = "/contact/"
 
