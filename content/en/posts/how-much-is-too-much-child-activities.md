@@ -1,23 +1,40 @@
-+++
-authors = ["Aixwim"]
-title = "How Much Is Too Much? A Guide to Balancing Your Child's After-School Activities"
-date = "2024-12-08"
-description = "Not sure how much is too much when it comes to your child's after-school activities? Here’s a practical guide to help you find the perfect balance based on their age and needs."
-tags = [
-  "child development",
-  "extracurricular activities",
-  "parenting tips",
-  "kids activities",
-  "school balance"
-]
-categories = [
-  "Parenting",
-  "Education"
-]
-series = ["Parenting Tips"]
-aliases = ["how-much-is-too-much-child-activities"]
-
-+++
+---
+title: "How Much Is Too Much? A Guide to Balancing Your Child's After-School Activities"
+date: "2024-12-08"
+# weight: 1
+# aliases: ["/how-much-is-too-much-child-activities"]
+tags: ["child development", "extracurricular activities", "parenting tips", "kids activities", "school balance"]
+author: "Aixwim"
+# author: ["Aixwim", "Guest Author"] # multiple authors
+showToc: true
+TocOpen: false
+draft: false
+hidemeta: false
+comments: true
+description: "Not sure how much is too much when it comes to your child's after-school activities? Here’s a practical guide to help you find the perfect balance based on their age and needs."
+canonicalURL: "https://aixwim.cloud/how-much-is-too-much-child-activities"
+disableHLJS: false # to disable highlightjs
+disableShare: false
+disableHLJS: false
+hideSummary: false
+searchHidden: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+cover:
+    image: ""
+    alt: "Balancing After-School Activities"
+    caption: "Finding the right balance between school and extracurriculars"
+    relative: false
+    hidden: true
+editPost:
+    URL: "https://github.com/Xyomania/xyomania.github.io"
+    Text: "Suggest Changes"
+    appendFilePath: true
+---
 
 As a parent, deciding how much extracurricular activity is too much for your child can be challenging. Should your child attend football practice five days a week, or is three days enough? While many after-school activities are fun and engaging, too much can overwhelm a child. It’s essential to strike a balance. Here’s a simple guide to help you determine the right amount of activities for your child, based on their age and development.
 

@@ -1,32 +1,32 @@
-+++
-authors = ["Aixwim"]
-title = "After-School Activities for Hyperactive Children: Engaging ADHD Kids"
-date = "2024-12-07"
-description = "Discover after-school activities that work for children with ADHD. Explore sports, arts, and other activities that help channel energy, improve focus, and build social skills."
-
-tags = [
-  "ADHD",
-  "hyperactive children",
-  "after-school activities",
-  "children's health",
-  "parenting tips"
-]
-
-categories = [
-  "Health",
-  "Parenting",
-  "Education"
-]
-
-series = ["Parenting Tips"]
-
-aliases = ["after-school-activities-hyperactive-child"]
-
-images = ["/images/featured/adhd-child-activity.webp"]
-
-+++
-
-![After-School Activities for Hyperactive Children]( /images/featured/adhd-child-activity.webp)
+---
+title: "After-School Activities for Hyperactive Children: Engaging ADHD Kids"
+date: "2024-12-07T11:00:00+00:00"
+tags: ["ADHD", "hyperactive children", "after-school activities", "children's health", "parenting tips"]
+categories: ["Health", "Parenting", "Education"]
+author: ["Aixwim"]
+showToc: true
+TocOpen: false
+draft: false
+description: "Discover after-school activities that work for children with ADHD. Explore sports, arts, and other activities that help channel energy, improve focus, and build social skills."
+canonicalURL: "https://aixwim.cloud/after-school-activities-hyperactive-child"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+cover:
+    image: "/images/featured/adhd-child-activity.webp"
+    alt: "After-School Activities for Hyperactive Children"
+    caption: "Best after-school activities for ADHD kids"
+    relative: false
+    hidden: false
+editPost:
+    URL: "https://github.com/Xyomania/xyomania.github.io"
+    Text: "Suggest Changes"
+    appendFilePath: true
+---
 
 Children with ADHD (Attention-Deficit/Hyperactivity Disorder) face challenges that can make after-school hours particularly difficult. With hyperactivity and attention issues persisting after school, parents often struggle to keep their children engaged in productive and healthy activities. But with the right approach, after-school activities can help channel their energy, improve focus, and even enhance their social skills.
 

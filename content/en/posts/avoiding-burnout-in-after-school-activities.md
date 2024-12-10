@@ -1,27 +1,32 @@
-+++
-authors = ["Aixwim"]
-title = "Avoiding Burnout in After-School Activities: A Parent’s Guide"
-date = "2024-12-13"
-description = "Managing after-school activities is key to a child's happiness and well-being. Learn how to avoid burnout while keeping your child engaged and fulfilled."
-
-tags = [
-  "after-school activities",
-  "child development",
-  "parenting tips",
-  "kids burnout",
-  "healthy activities"
-]
-
-categories = [
-  "Hobbies and Time",
-  "Health",
-  "Family"
-]
-
-series = ["Parenting Tips"]
-aliases = ["avoiding-burnout-in-after-school-activities"]
-
-+++
+---
+title: "Avoiding Burnout in After-School Activities: A Parent’s Guide"
+date: "2024-12-08"
+tags: ["after-school activities", "child development", "parenting tips", "kids burnout", "healthy activities"]
+categories: ["Hobbies and Time", "Health", "Family"]
+author: ["Aixwim"]
+showToc: true
+TocOpen: false
+draft: false
+description: "Managing after-school activities is key to a child's happiness and well-being. Learn how to avoid burnout while keeping your child engaged and fulfilled."
+canonicalURL: "https://aixwim.cloud/avoiding-burnout-in-after-school-activities"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+cover:
+    image: ""
+    alt: "Child enjoying after-school activities"
+    caption: "Balance is the key to avoiding burnout in after-school activities"
+    relative: false
+    hidden: true
+editPost:
+    URL: "https://github.com/Xyomania/xyomania.github.io"
+    Text: "Suggest Changes"
+    appendFilePath: true
+---
 
 For millions of parents around the world, the school day doesn't end with the final bell. After-school activities, from painting to playing sports, are essential to keeping children happy, safe, and engaged. However, it's crucial to avoid pushing kids too far. Here's a guide to balancing fun and structure without causing burnout.
 

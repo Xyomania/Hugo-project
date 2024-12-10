@@ -1,27 +1,36 @@
-+++
-authors = ["Aixwim"]
-title = "Why Your Child Might Find After-School Activities Boring"
-date = "2024-12-20"
-description = "Learn why children sometimes lose interest in after-school activities and how to address it to keep them engaged."
-
-tags = [
-  "after-school activities",
-  "parenting tips",
-  "child development",
-  "children's interests",
-  "extracurricular activities"
-]
-
-categories = [
-  "Parenting",
-  "Child Development",
-  "Extracurricular Activities"
-]
-
-series = ["Parenting Advice"]
-aliases = ["boredom-in-after-school-activities"]
-
-+++
+---
+title: "Why Your Child Might Find After-School Activities Boring"
+date: 2024-12-08T00:00:00+00:00
+tags: ["after-school activities", "parenting tips", "child development", "children's interests", "extracurricular activities"]
+author: "Aixwim"
+showToc: true
+TocOpen: false
+draft: false
+hidemeta: false
+comments: false
+description: "Learn why children sometimes lose interest in after-school activities and how to address it to keep them engaged."
+canonicalURL: "https://aixwim.cloud/boredom-in-after-school-activities"
+disableHLJS: true
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+cover:
+    image: ""
+    alt: "Why Your Child Might Find After-School Activities Boring"
+    caption: "Learn how to keep your child engaged in after-school activities"
+    relative: false
+    hidden: true
+editPost:
+    URL: "https://github.com/Xyomania/xyomania.github.io"
+    Text: "Suggest Changes"
+    appendFilePath: true
+---
 
 Many parents are puzzled when their once-enthusiastic child suddenly becomes reluctant to participate in a beloved after-school activity. Whether it’s piano lessons, skating, or theater class, it's not uncommon for children to lose interest over time. Understanding the root cause of this shift is key to re-engaging your child.
 

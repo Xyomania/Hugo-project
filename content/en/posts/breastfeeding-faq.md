@@ -1,24 +1,36 @@
-+++
-authors = ["Aixwim"]
-title = "Breastfeeding Questions & Answers"
-date = "2024-12-21"
-description = "Answers to common breastfeeding questions to guide new and experienced moms."
-
-tags = [
-"breastfeeding",
-"baby care",
-"parenting tips",
-"newborn care",
-
-]
-
-categories = [
-"Caregivers and Pets",
-]
-series = ["Parenting Basics"]
-aliases = ["breastfeeding-faq"]
-
-+++
+---
+title: "Breastfeeding Questions & Answers"
+date: "2024-12-08"
+tags: ["breastfeeding", "baby care", "parenting tips", "newborn care"]
+author: "Aixwim"
+showToc: true
+TocOpen: false
+draft: false
+hidemeta: false
+comments: false
+description: "Answers to common breastfeeding questions to guide new and experienced moms."
+canonicalURL: "https://aixwim.cloud/breastfeeding-faq"
+disableHLJS: true
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+cover:
+    image: ""
+    alt: "Breastfeeding Questions & Answers"
+    caption: "A guide to common breastfeeding questions for moms"
+    relative: false
+    hidden: true
+editPost:
+    URL: "https://github.com/Xyomania/xyomania.github.io"
+    Text: "Suggest Changes"
+    appendFilePath: true
+---
 
 Breastfeeding is a natural yet sometimes challenging part of parenting. Here are answers to common breastfeeding questions to help you navigate this important stage of your baby’s development.
 
@@ -60,4 +72,3 @@ For babies over six months old, aim for no less than **5 nursing sessions per da
 ### Final Note: Adjusting to Changes  
 
 When dropping feedings, your baby may need to consume more during the day to compensate. Pay attention to their hunger cues and feed on demand when necessary. By being flexible and observant, you can ensure a smooth transition for both you and your baby.
-

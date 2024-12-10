@@ -1,22 +1,36 @@
-+++
-authors = ["Aixwim"]
-title = "Learning About Cash Back Credit Cards: Good or Bad Idea?"
-date = "2024-12-04"
-description = "An in-depth look at cash back credit cards, how they work, and whether they are a good or bad choice based on your credit rating and spending habits."
-tags = [
-    "cash back",
-    "credit cards",
-    "financial advice",
-    "credit score",
-]
-categories = [
-    "Business and Finance",
-]
-series = ["Financial Literacy"]
-aliases = ["cash-back-credit-cards"]
-images = ["/images/featured/cash-back-credit-cards.webp"]
-+++
-![cash back credit cards](/images/featured/cash-back-credit-cards.webp)
+---
+title: "Learning About Cash Back Credit Cards: Good or Bad Idea?"
+date: "2024-12-04"
+tags: ["cash back", "credit cards", "financial advice", "credit score"]
+author: "Aixwim"
+showToc: true
+TocOpen: false
+draft: false
+hidemeta: false
+comments: false
+description: "An in-depth look at cash back credit cards, how they work, and whether they are a good or bad choice based on your credit rating and spending habits."
+canonicalURL: "https://aixwim.cloud/cash-back-credit-cards"
+disableHLJS: true
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+cover:
+    image: "/images/featured/cash-back-credit-cards.webp"
+    alt: "Cash Back Credit Cards"
+    caption: "Understanding how cash back credit cards work and if they're a good choice for you"
+    relative: false
+    hidden: false
+editPost:
+    URL: "https://github.com/Xyomania/xyomania.github.io"
+    Text: "Suggest Changes"
+    appendFilePath: true
+---
 
 Getting a credit card that offers cash back always sounds like a good idea. What could be better than getting cash back on all the purchases that you make with your credit card? It sounds too good to be true, doesn’t it?
 

@@ -1,27 +1,40 @@
-+++
-authors = ["Aixwim"]
-title = "Effective After-School Activities: Key Features and Considerations"
-date = "2024-12-27"
-description = "Discover the essential characteristics of effective after-school activities that balance learning, development, and fun for your child."
-
-tags = [
-  "after-school activities",
-  "child development",
-  "recreational programs",
-  "effective learning",
-  "parenting"
-]
-
-categories = [
-  "Parenting",
-  "Child Development",
-  "After-School Programs"
-]
-
-series = ["Parenting Advice"]
-aliases = ["effective-after-school-activities"]
-
-+++
+---
+title: "Effective After-School Activities: Key Features and Considerations"
+date: "2024-12-08"
+# weight: 1
+# aliases: ["/effective-after-school-activities"]
+tags: ["after-school activities", "child development", "recreational programs", "effective learning", "parenting"]
+author: "Aixwim"
+# author: ["Aixwim", "Guest Author"] # multiple authors
+showToc: true
+TocOpen: false
+draft: false
+hidemeta: false
+comments: true
+description: "Discover the essential characteristics of effective after-school activities that balance learning, development, and fun for your child."
+canonicalURL: "https://aixwim.cloud/effective-after-school-activities"
+disableHLJS: false # to disable highlightjs
+disableShare: false
+disableHLJS: false
+hideSummary: false
+searchHidden: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+cover:
+    image: ""
+    alt: "Effective After-School Activities"
+    caption: "Key features and considerations for choosing after-school activities"
+    relative: false
+    hidden: true
+editPost:
+    URL: "https://github.com/Xyomania/xyomania.github.io"
+    Text: "Suggest Changes"
+    appendFilePath: true
+---
 
 With so many after-school activities available, choosing the right one for your child can be a challenge. While it’s important for the child to enjoy the activity, the real value lies in ensuring that the activity offers more than just fun. It should promote learning, skill development, and personal growth. Below are key characteristics that any good after-school activity should possess to be both effective and rewarding.
 

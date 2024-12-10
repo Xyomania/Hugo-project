@@ -1,27 +1,40 @@
-+++
-authors = ["Aixwim"]
-title = "Developmental After-School Programs: Supporting Growth at Every Stage"
-date = "2024-12-26"
-description = "Explore how after-school programs can support a child's physical, emotional, social, and intellectual development across different stages of growth."
-
-tags = [
-  "after-school programs",
-  "child development",
-  "physical development",
-  "emotional growth",
-  "intellectual growth"
-]
-
-categories = [
-  "Parenting",
-  "Child Development",
-  "Extracurricular Activities"
-]
-
-series = ["Parenting Advice"]
-aliases = ["developmental-after-school-programs"]
-
-+++
+---
+title: "Developmental After-School Programs: Supporting Growth at Every Stage"
+date: "2024-12-08"
+# weight: 1
+# aliases: ["/developmental-after-school-programs"]
+tags: ["after-school programs", "child development", "physical development", "emotional growth", "intellectual growth"]
+author: "Aixwim"
+# author: ["Aixwim", "Guest Author"] # multiple authors
+showToc: true
+TocOpen: false
+draft: false
+hidemeta: false
+comments: true
+description: "Explore how after-school programs can support a child's physical, emotional, social, and intellectual development across different stages of growth."
+canonicalURL: "https://aixwim.cloud/developmental-after-school-programs"
+disableHLJS: false # to disable highlightjs
+disableShare: false
+disableHLJS: false
+hideSummary: false
+searchHidden: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+cover:
+    image: ""
+    alt: "Developmental After-School Programs"
+    caption: "Supporting growth across physical, emotional, social, and intellectual domains"
+    relative: false
+    hidden: true
+editPost:
+    URL: "https://github.com/Xyomania/xyomania.github.io"
+    Text: "Suggest Changes"
+    appendFilePath: true
+---
 
 As children grow, different aspects of their physical, emotional, and intellectual selves require focused development. To help a child reach their full potential, it’s important for after-school programs to address their developmental needs at each stage of life. Understanding these stages and domains of development will help parents and educators structure effective programs.
 

@@ -1,27 +1,40 @@
-+++
-authors = ["Aixwim"]
-title = "After-School Programs and Discipline: The Importance of Rules"
-date = "2024-12-08"
-description = "Discipline plays a crucial role in after-school programs. Learn why setting clear rules and addressing misbehavior is essential for children's development."
-
-tags = [
-  "after-school programs",
-  "child discipline",
-  "parenting tips",
-  "child development",
-  "learning environment"
-]
-
-categories = [
-  "Parenting",
-  "Education",
-  "Child Development"
-]
-
-series = ["Parenting Advice"]
-aliases = ["importance-of-discipline-in-after-school-programs"]
-
-+++
+---
+title: "After-School Programs and Discipline: The Importance of Rules"
+date: "2024-12-08"
+# weight: 1
+# aliases: ["/importance-of-discipline-in-after-school-programs"]
+tags: ["after-school programs", "child discipline", "parenting tips", "child development", "learning environment"]
+author: "Aixwim"
+# author: ["Aixwim", "Guest Author"] # multiple authors
+showToc: true
+TocOpen: false
+draft: false
+hidemeta: false
+comments: true
+description: "Discipline plays a crucial role in after-school programs. Learn why setting clear rules and addressing misbehavior is essential for children's development."
+canonicalURL: "https://aixwim.cloud/importance-of-discipline-in-after-school-programs"
+disableHLJS: false # to disable highlightjs
+disableShare: false
+disableHLJS: false
+hideSummary: false
+searchHidden: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+cover:
+    image: ""
+    alt: "After-School Programs and Discipline"
+    caption: "The importance of discipline in after-school programs"
+    relative: false
+    hidden: true
+editPost:
+    URL: "https://github.com/Xyomania/xyomania.github.io"
+    Text: "Suggest Changes"
+    appendFilePath: true
+---
 
 Discipline is just as important in after-school programs as it is in school activities. While many after-school programs are recreational, it's essential that they maintain a certain level of discipline to ensure children learn and grow in a safe, structured environment.
 

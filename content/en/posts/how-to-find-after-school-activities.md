@@ -1,23 +1,40 @@
-+++
-authors = ["Aixwim"]
-title = "How to Find After-School Activities for Your Child"
-date = "2024-12-08"
-description = "Looking for the best after-school activities for your child? Here’s a step-by-step guide to finding the right extracurricular programs that fit their interests and your schedule."
-tags = [
-  "child development",
-  "after-school activities",
-  "parenting tips",
-  "extracurriculars",
-  "family activities"
-]
-categories = [
-  "Parenting",
-  "Education"
-]
-series = ["Parenting Tips"]
-aliases = ["how-to-find-after-school-activities"]
-
-+++
+---
+title: "How to Find After-School Activities for Your Child"
+date: "2024-12-08"
+# weight: 1
+# aliases: ["/how-to-find-after-school-activities"]
+tags: ["child development", "after-school activities", "parenting tips", "extracurriculars", "family activities"]
+author: "Aixwim"
+# author: ["Aixwim", "Guest Author"] # multiple authors
+showToc: true
+TocOpen: false
+draft: false
+hidemeta: false
+comments: true
+description: "Looking for the best after-school activities for your child? Here’s a step-by-step guide to finding the right extracurricular programs that fit their interests and your schedule."
+canonicalURL: "https://aixwim.cloud/how-to-find-after-school-activities"
+disableHLJS: false # to disable highlightjs
+disableShare: false
+disableHLJS: false
+hideSummary: false
+searchHidden: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+cover:
+    image: ""
+    alt: "Finding After-School Activities for Your Child"
+    caption: "Discover the best after-school programs for your child."
+    relative: false
+    hidden: true
+editPost:
+    URL: "https://github.com/Xyomania/xyomania.github.io"
+    Text: "Suggest Changes"
+    appendFilePath: true
+---
 
 Finding the right after-school activities for your child can be a bit overwhelming, but with some research and planning, you can discover the perfect fit for their interests and needs. Here’s a step-by-step guide to help you find suitable extracurricular programs for your child.
 

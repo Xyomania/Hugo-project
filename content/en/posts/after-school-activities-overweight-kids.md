@@ -1,29 +1,32 @@
-+++
-authors = ["Aixwim"]
-title = "After-School Activities for Overweight Children: A Path to Healthier Living"
-date = "2024-12-08"
-description = "Explore the importance of after-school activities in combating childhood obesity. Learn how sports and physical exercises can help overweight children stay active and healthy."
-
-tags = [
-  "childhood obesity",
-  "after-school activities",
-  "children's health",
-  "active kids",
-  "overweight children"
-]
-
-categories = [
-  "Health",
-  "Parenting",
-  "Education"
-]
-
-series = ["Parenting Tips"]
-aliases = ["after-school-activities-overweight-kids"]
-images = ["/images/featured/overweight-child-activity.webp"]
-+++
-
-![After-School Activities for Overweight Children]( /images/featured/overweight-child-activity.webp)
+---
+title: "After-School Activities for Overweight Children: A Path to Healthier Living"
+date: "2024-12-08"
+tags: ["childhood obesity", "after-school activities", "children's health", "active kids", "overweight children"]
+categories: ["Health", "Parenting", "Education"]
+author: ["Aixwim"]
+showToc: true
+TocOpen: false
+draft: false
+description: "Explore the importance of after-school activities in combating childhood obesity. Learn how sports and physical exercises can help overweight children stay active and healthy."
+canonicalURL: "https://aixwim.cloud/after-school-activities-overweight-kids"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+cover:
+    image: "/images/featured/overweight-child-activity.webp"
+    alt: "After-School Activities for Overweight Children"
+    caption: "Encouraging active lifestyles to combat childhood obesity"
+    relative: false
+    hidden: false
+editPost:
+    URL: "https://github.com/Xyomania/xyomania.github.io"
+    Text: "Suggest Changes"
+    appendFilePath: true
+---
 
 Childhood obesity has become a major concern in many countries, with children gaining weight at an alarming rate. As a parent, it can be heartbreaking to see your child struggle with their weight, especially when food becomes a source of comfort. But how can we tackle this issue in a positive and constructive way? The solution lies in getting children involved in after-school activities that promote movement, health, and fitness.
 

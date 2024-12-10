@@ -1,24 +1,36 @@
-+++
-authors = ["Aixwim"]
-title = "Getting Out and Staying Out of Credit Card Debt: A Practical Guide"
-date = "2024-12-25"
-description = "Discover strategies to break free from credit card debt and build a healthier financial future. Learn how to manage spending, stick to a repayment plan, and avoid future debt."
-
-tags = [
-  "credit card debt",
-  "debt repayment",
-  "personal finance",
-  "financial management",
-  "avoiding debt",
-]
-
-categories = [
-  "Business and Finance",
-]
-
-series = ["Financial Freedom"]
-aliases = ["credit-card-debt-guide"]
-+++
+---
+title: "Getting Out and Staying Out of Credit Card Debt: A Practical Guide"
+date: "2024-12-08"
+tags: ["credit card debt", "debt repayment", "personal finance", "financial management", "avoiding debt"]
+author: "Aixwim"
+showToc: true
+TocOpen: false
+draft: false
+hidemeta: false
+comments: true
+description: "Discover strategies to break free from credit card debt and build a healthier financial future. Learn how to manage spending, stick to a repayment plan, and avoid future debt."
+canonicalURL: "https://aixwim.cloud/credit-card-debt-guide"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+cover:
+    image: ""
+    alt: "Getting Out and Staying Out of Credit Card Debt"
+    caption: "Strategies to break free from credit card debt"
+    relative: false
+    hidden: true
+editPost:
+    URL: "https://github.com/Xyomania/xyomania.github.io"
+    Text: "Suggest Changes"
+    appendFilePath: true
+---
 
 Credit card debt is one of the leading causes of bankruptcy, affecting millions each year. It often starts innocently—over time, small charges accumulate and missed payments drive the balance higher. While credit cards themselves aren't inherently bad, improper use and lack of planning can lead to serious financial trouble. Here's how you can get out of credit card debt and stay out for good.
 

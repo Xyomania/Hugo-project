@@ -1,29 +1,32 @@
-+++
-authors = ["Aixwim"]
-title = "After-School Activities and Relationship Building: Strengthening Connections"
-date = "2024-12-09"
-description = "Discover how after-school programs foster meaningful relationships between children and mentors, and why these connections are vital for growth and success."
-
-tags = [
-  "after-school activities",
-  "child development",
-  "mentorship",
-  "relationship building",
-  "youth programs"
-]
-
-categories = [
-  "Hobbies and Time",
-  "Family",
-  "Education"
-]
-
-series = ["Parenting Tips"]
-
-aliases = ["after-school-activities-relationship-building"]
-
-+++
-
+---
+title: "After-School Activities and Relationship Building: Strengthening Connections"
+date: "2024-12-08"
+tags: ["after-school activities", "child development", "mentorship", "relationship building", "youth programs"]
+categories: ["Hobbies and Time", "Family", "Education"]
+author: ["Aixwim"]
+showToc: true
+TocOpen: false
+draft: false
+description: "Discover how after-school programs foster meaningful relationships between children and mentors, and why these connections are vital for growth and success."
+canonicalURL: "https://aixwim.cloud/after-school-activities-relationship-building"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+cover:
+    image: ""
+    alt: "After-School Activities and Relationship Building"
+    caption: "Fostering connections through mentorship in after-school programs"
+    relative: false
+    hidden: true
+editPost:
+    URL: "https://github.com/Xyomania/xyomania.github.io"
+    Text: "Suggest Changes"
+    appendFilePath: true
+---
 
 After-school programs are increasingly popular, with over $500 million invested in them and more than 10 million children attending these programs in the U.S. alone. These programs are crucial for children to develop new skills, gain more knowledge, and stay safe while parents are working. But the real success of these activities lies in the relationships formed between children and the adults guiding them.
 

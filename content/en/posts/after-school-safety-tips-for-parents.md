@@ -1,27 +1,32 @@
-+++
-authors = ["Aixwim"]
-title = "After-School Safety: Essential Tips and Reminders for Parents"
-date = "2024-12-10"
-description = "Ensure your child's safety after school with these practical tips. From emergency preparedness to identifying danger zones, here's how you can keep your child safe."
-
-tags = [
-  "child safety",
-  "after-school programs",
-  "parenting tips",
-  "safety tips",
-  "emergency preparedness"
-]
-
-categories = [
-  "Parenting",
-  "Child Development",
-  "Safety"
-]
-
-series = ["Parenting Advice"]
-aliases = ["after-school-safety-tips-for-parents"]
-
-+++
+---
+title: "After-School Safety: Essential Tips and Reminders for Parents"
+date: "2024-12-08"
+tags: ["child safety", "after-school programs", "parenting tips", "safety tips", "emergency preparedness"]
+categories: ["Parenting", "Child Development", "Safety"]
+author: ["Aixwim"]
+showToc: true
+TocOpen: false
+draft: false
+description: "Ensure your child's safety after school with these practical tips. From emergency preparedness to identifying danger zones, here's how you can keep your child safe."
+canonicalURL: "https://aixwim.cloud/after-school-safety-tips-for-parents"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+cover:
+    image: ""
+    alt: "After-School Safety Tips"
+    caption: "Essential safety tips for parents to protect children after school"
+    relative: false
+    hidden: true
+editPost:
+    URL: "https://github.com/Xyomania/xyomania.github.io"
+    Text: "Suggest Changes"
+    appendFilePath: true
+---
 
 When parents send their children off to after-school programs, there's an inherent assumption that the child is safe. However, with the increasing number of children participating in these activities, ensuring their safety becomes paramount. Here are some essential safety tips to help keep your child secure after school.
 

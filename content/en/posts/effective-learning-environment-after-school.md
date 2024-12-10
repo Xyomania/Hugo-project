@@ -1,23 +1,40 @@
-+++
-authors = ["Aixwim"]
-title = "Creating an Effective Learning Environment in After-School Programs"
-date = "2024-12-28"
-description = "Learn how to foster an engaging and disciplined learning environment in after-school programs that enhances children's development."
-tags = [
-  "after-school programs",
-  "learning environment",
-  "child development",
-  "education",
-  "extracurricular activities"
-]
-categories = [
-  "Education",
-  "Parenting"
-]
-series = ["Child Development"]
-aliases = ["effective-learning-environment-after-school"]
-
-+++
+---
+title: "Creating an Effective Learning Environment in After-School Programs"
+date: "2024-12-08"
+# weight: 1
+# aliases: ["/effective-learning-environment-after-school"]
+tags: ["after-school programs", "learning environment", "child development", "education", "extracurricular activities"]
+author: "Aixwim"
+# author: ["Aixwim", "Guest Author"] # multiple authors
+showToc: true
+TocOpen: false
+draft: false
+hidemeta: false
+comments: true
+description: "Learn how to foster an engaging and disciplined learning environment in after-school programs that enhances children's development."
+canonicalURL: "https://aixwim.cloud/effective-learning-environment-after-school"
+disableHLJS: false # to disable highlightjs
+disableShare: false
+disableHLJS: false
+hideSummary: false
+searchHidden: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+cover:
+    image: ""
+    alt: "Creating an Effective Learning Environment in After-School Programs"
+    caption: "Fostering an engaging and disciplined learning environment for children"
+    relative: false
+    hidden: true
+editPost:
+    URL: "https://github.com/Xyomania/xyomania.github.io"
+    Text: "Suggest Changes"
+    appendFilePath: true
+---
 
 After-school programs are often misunderstood as less important compared to regular school hours, but research shows that these programs can play a pivotal role in children's development. Many essential skills are learned during after-school activities, and children who do not participate in extracurricular programs often lack vitality and struggle with skill development. So, how can we ensure that after-school programs create a productive and engaging learning environment? Let's dive into the key elements that contribute to an effective after-school learning environment.
 

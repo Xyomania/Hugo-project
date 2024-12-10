@@ -1,22 +1,36 @@
-+++
-authors = ["Aixwim"]
-title = "Breastfeeding Your Baby: Tips and Troubleshooting"
-date = "2024-12-22"
-description = "An insightful guide on breastfeeding challenges, milk production, and ensuring your baby gets enough nutrition."
-
-tags = [
-"breastfeeding",
-"baby care",
-"parenting tips",
-"newborn health",
-]
-categories = [
-"Caregivers and Pets",
-]
-series = ["Parenting Basics"]
-aliases = ["breastfeeding-guide"]
-
-+++
+---
+title: "Breastfeeding Your Baby: Tips and Troubleshooting"
+date: "2024-12-08"
+tags: ["breastfeeding", "baby care", "parenting tips", "newborn health"]
+author: "Aixwim"
+showToc: true
+TocOpen: false
+draft: false
+hidemeta: false
+comments: false
+description: "An insightful guide on breastfeeding challenges, milk production, and ensuring your baby gets enough nutrition."
+canonicalURL: "https://aixwim.cloud/breastfeeding-guide"
+disableHLJS: true
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+cover:
+    image: ""
+    alt: "Breastfeeding Your Baby: Tips and Troubleshooting"
+    caption: "A guide to help new moms navigate breastfeeding challenges"
+    relative: false
+    hidden: true
+editPost:
+    URL: "https://github.com/Xyomania/xyomania.github.io"
+    Text: "Suggest Changes"
+    appendFilePath: true
+---
 
 Breastfeeding is a rewarding experience, but it can come with challenges, including milk production issues. Understanding how to address these problems is key to ensuring your baby gets the nutrition they need. Here's a comprehensive guide to help you along the way.
 

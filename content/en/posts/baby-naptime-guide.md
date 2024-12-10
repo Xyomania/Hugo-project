@@ -1,21 +1,32 @@
-+++
-authors = ["Aixwim"]
-title = "Baby's Naptime: Tips for Establishing Healthy Sleep Habits"
-date = "2024-12-15"
-description = "A guide for parents to help their baby establish healthy naptime routines and sleep patterns."
-tags = [
-"parenting",
-"baby sleep",
-"naptime tips",
-"sleep training",
-]
-categories = [
-"Caregivers and Pets",
-]
-series = ["Parenting Basics"]
-aliases = ["baby-naptime-guide"]
-
-+++
+---
+title: "Baby's Naptime: Tips for Establishing Healthy Sleep Habits"
+date: "2024-12-08"
+tags: ["parenting", "baby sleep", "naptime tips", "sleep training"]
+categories: ["Caregivers and Pets"]
+author: ["Aixwim"]
+showToc: true
+TocOpen: false
+draft: false
+description: "A guide for parents to help their baby establish healthy naptime routines and sleep patterns."
+canonicalURL: "https://aixwim.cloud/baby-naptime-guide"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+cover:
+    image: ""
+    alt: "Baby sleeping peacefully during naptime"
+    caption: "Healthy naptime routines contribute to better sleep patterns for babies."
+    relative: false
+    hidden: true
+editPost:
+    URL: "https://github.com/Xyomania/xyomania.github.io"
+    Text: "Suggest Changes"
+    appendFilePath: true
+---
 
 Establishing healthy naptime routines is essential for your baby’s development and overall well-being. If your baby struggles to nap, adjusting their routine and observing their behavior can make a significant difference. Here’s how to guide your little one toward better naps.
 

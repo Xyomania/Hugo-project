@@ -1,27 +1,40 @@
-+++
-authors = ["Aixwim"]
-title = "Creating a Home-Based After-School Program: Tips for Parents"
-date = "2024-12-31"
-description = "No school extracurriculars? No problem! Here's how you can create a home-based after-school program to foster your child's academic, physical, and social development."
-
-tags = [
-  "home-based programs",
-  "after-school activities",
-  "parenting tips",
-  "child development",
-  "extracurricular activities"
-]
-
-categories = [
-  "Parenting",
-  "Child Development",
-  "Education"
-]
-
-series = ["Parenting Advice"]
-aliases = ["home-after-school-program"]
-
-+++
+---
+title: "Creating a Home-Based After-School Program: Tips for Parents"
+date: "2024-12-08"
+# weight: 1
+# aliases: ["/home-after-school-program"]
+tags: ["home-based programs", "after-school activities", "parenting tips", "child development", "extracurricular activities"]
+author: "Aixwim"
+# author: ["Aixwim", "Guest Author"] # multiple authors
+showToc: true
+TocOpen: false
+draft: false
+hidemeta: false
+comments: true
+description: "No school extracurriculars? No problem! Here's how you can create a home-based after-school program to foster your child's academic, physical, and social development."
+canonicalURL: "https://aixwim.cloud/home-after-school-program"
+disableHLJS: false # to disable highlightjs
+disableShare: false
+disableHLJS: false
+hideSummary: false
+searchHidden: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+cover:
+    image: ""
+    alt: "Home-Based After-School Program"
+    caption: "Create a home-based after-school program that supports your child's growth."
+    relative: false
+    hidden: true
+editPost:
+    URL: "https://github.com/Xyomania/xyomania.github.io"
+    Text: "Suggest Changes"
+    appendFilePath: true
+---
 
 If your child’s school does not offer extracurricular activities, you might be worried about depriving them of the extra learning and fun these activities provide. But don’t worry! After-school programs don’t have to be formal or structured in a school-like environment to be effective. Here’s how you can create a home-based after-school program that supports your child's academic, physical, and social development.
 

@@ -1,24 +1,40 @@
-+++
-authors = ["Aixwim"]
-title = "Essential Tips for New Parents"
-date = "2024-12-29"
-description = "A helpful guide for new parents navigating the challenges of caring for a newborn."
-
-tags = [
-"parenting",
-"newborn care",
-"baby health",
-"parenting tips",
-]
-
-categories = [
-"Caregivers and Pets",
-]
-
-series = ["Parenting Basics"]
-aliases = ["essential-tips-for-new-parents"]
-
-+++
+---
+title: "Essential Tips for New Parents"
+date: "2024-12-08"
+# weight: 1
+# aliases: ["/essential-tips-for-new-parents"]
+tags: ["parenting", "newborn care", "baby health", "parenting tips"]
+author: "Aixwim"
+# author: ["Aixwim", "Guest Author"] # multiple authors
+showToc: true
+TocOpen: false
+draft: false
+hidemeta: false
+comments: true
+description: "A helpful guide for new parents navigating the challenges of caring for a newborn."
+canonicalURL: "https://aixwim.cloud/essential-tips-for-new-parents"
+disableHLJS: false # to disable highlightjs
+disableShare: false
+disableHLJS: false
+hideSummary: false
+searchHidden: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+cover:
+    image: ""
+    alt: "Essential Tips for New Parents"
+    caption: "Helpful tips for navigating the first days of parenthood"
+    relative: false
+    hidden: true
+editPost:
+    URL: "https://github.com/Xyomania/xyomania.github.io"
+    Text: "Suggest Changes"
+    appendFilePath: true
+---
 
 Welcoming a newborn is a joyous experience, but it comes with challenges that new parents must navigate. While there’s no instruction manual for parenting, here are some key insights to help you on this journey.
 
