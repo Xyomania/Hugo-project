@@ -45,9 +45,10 @@ tocopen = true
 enableInlineShortcodes = true
 enableRobotsTXT = true
 disqusShortname = "aixwim"
+yandexVerification = "705ee09bd561a459"
 
 [params.analytics.google]
-SiteVerificationTag = "G-PWLWH73DHK"
+MeasurementID = "G-PWLWH73DHK"
 
 [params.assets]
 favicon = "/favicon.ico"
@@ -107,38 +108,6 @@ minMatchCharLength = 0
 limit = 10
 keys = ["title", "permalink", "summary", "content"]
 
-[menu]
-[[menu.main]]
-identifier = "about"
-name = "About"
-url = "/about/"
-weight = 1
-
-[[menu.main]]
-identifier = "posts"
-name = "Blog"
-url = "/posts/"
-weight = 2
-
-[[menu.main]]
-identifier = "contact"
-name = "Contact Me"
-url = "/contact/"
-weight = 3
-
-[[menu.main]]
-identifier = "search"
-name = "Search"
-url = "/search/"
-weight = 4
-
-[[menu.main]]
-identifier = "rss"
-name = "RSS"
-url = "https://aixwim.cloud/index.xml"
-weight = 6
-rel = "alternate"
-type = "application/rss+xml"
 
 [markup.pygments]
 pygmentsUseClasses = true
@@ -160,24 +129,29 @@ title = "AIXWIM"
 name = "About"
 weight = 1
 url = "/about/"
-
 [[languages.en.menu.main]]
 name = "Blog"
 weight = 2
 url = "/posts/"
-
 [[languages.en.menu.main]]
-name = "Contact Me"
+name = "Categories"
 weight = 3
+url = "/categories/"
+[[languages.en.menu.main]]
+name = "Contact"
+weight = 4
 url = "/contact/"
-
 [[languages.en.menu.main]]
 name = "Search"
-weight = 4
+weight = 5
 url = "/search/"
+[[languages.en.menu.main]]
+name = "Tags"
+weight = 6
+url = "/tags/"
 
 [languages.id]
-languageName = "Indonesia"
+languageName = "Bahasa Indonesia"
 weight = 2
 contentDir = "content/id"
 title = "AIXWIM"
@@ -185,22 +159,27 @@ title = "AIXWIM"
 [[languages.id.menu.main]]
 name = "Tentang"
 weight = 1
-url = "/about/"
-
+url = "/tentang/"
 [[languages.id.menu.main]]
 name = "Blog"
 weight = 2
-url = "/posts/"
-
+url = "/pos/"
+[[languages.id.menu.main]]
+name = "Kategori"
+weight = 3
+url = "/kategori/"
 [[languages.id.menu.main]]
 name = "Kontak"
-weight = 3
-url = "/contact/"
-
+weight = 4
+url = "/kontak/"
 [[languages.id.menu.main]]
 name = "Pencarian"
-weight = 4
-url = "/search/"
+weight = 5
+url = "/pencarian/"
+[[languages.id.menu.main]]
+name = "Tag"
+weight = 6
+url = "/tag/"
 
 [languages.ja]
 languageName = "日本語"
@@ -211,22 +190,27 @@ title = "AIXWIM"
 [[languages.ja.menu.main]]
 name = "概要"
 weight = 1
-url = "/about/"
-
+url = "/概要/"
 [[languages.ja.menu.main]]
 name = "ブログ"
 weight = 2
-url = "/posts/"
-
+url = "/ブログ/"
 [[languages.ja.menu.main]]
-name = "お問い合わせ"
+name = "カテゴリー"
 weight = 3
-url = "/contact/"
-
+url = "/カテゴリー/"
+[[languages.ja.menu.main]]
+name = "連絡先"
+weight = 4
+url = "/連絡先/"
 [[languages.ja.menu.main]]
 name = "検索"
-weight = 4
-url = "/search/"
+weight = 5
+url = "/検索/"
+[[languages.ja.menu.main]]
+name = "タグ"
+weight = 6
+url = "/タグ/"
 
 [languages.ru]
 languageName = "Русский"
@@ -237,25 +221,30 @@ title = "AIXWIM"
 [[languages.ru.menu.main]]
 name = "О нас"
 weight = 1
-url = "/about/"
-
+url = "/о-нас/"
 [[languages.ru.menu.main]]
 name = "Блог"
 weight = 2
-url = "/posts/"
-
+url = "/блог/"
+[[languages.ru.menu.main]]
+name = "Категории"
+weight = 3
+url = "/категории/"
 [[languages.ru.menu.main]]
 name = "Контакты"
-weight = 3
-url = "/contact/"
-
+weight = 4
+url = "/контакты/"
 [[languages.ru.menu.main]]
 name = "Поиск"
-weight = 4
-url = "/search/"
+weight = 5
+url = "/поиск/"
+[[languages.ru.menu.main]]
+name = "Теги"
+weight = 6
+url = "/теги/"
 
 [languages.zh-cn]
-languageName = "中文 (简体)"
+languageName = "简体中文"
 weight = 5
 contentDir = "content/zh-cn"
 title = "AIXWIM"
@@ -263,25 +252,30 @@ title = "AIXWIM"
 [[languages.zh-cn.menu.main]]
 name = "关于"
 weight = 1
-url = "/about/"
-
+url = "/关于/"
 [[languages.zh-cn.menu.main]]
 name = "博客"
 weight = 2
-url = "/posts/"
-
+url = "/博客/"
 [[languages.zh-cn.menu.main]]
-name = "联系我"
+name = "分类"
 weight = 3
-url = "/contact/"
-
+url = "/分类/"
+[[languages.zh-cn.menu.main]]
+name = "联系"
+weight = 4
+url = "/联系/"
 [[languages.zh-cn.menu.main]]
 name = "搜索"
-weight = 4
-url = "/search/"
+weight = 5
+url = "/搜索/"
+[[languages.zh-cn.menu.main]]
+name = "标签"
+weight = 6
+url = "/标签/"
 
 [languages.zh-tw]
-languageName = "中文 (繁體)"
+languageName = "繁體中文"
 weight = 6
 contentDir = "content/zh-tw"
 title = "AIXWIM"
@@ -289,19 +283,24 @@ title = "AIXWIM"
 [[languages.zh-tw.menu.main]]
 name = "關於"
 weight = 1
-url = "/about/"
-
+url = "/關於/"
 [[languages.zh-tw.menu.main]]
 name = "部落格"
 weight = 2
-url = "/posts/"
-
+url = "/部落格/"
 [[languages.zh-tw.menu.main]]
-name = "聯絡我"
+name = "分類"
 weight = 3
-url = "/contact/"
-
+url = "/分類/"
+[[languages.zh-tw.menu.main]]
+name = "聯絡"
+weight = 4
+url = "/聯絡/"
 [[languages.zh-tw.menu.main]]
 name = "搜尋"
-weight = 4
-url = "/search/"
+weight = 5
+url = "/搜尋/"
+[[languages.zh-tw.menu.main]]
+name = "標籤"
+weight = 6
+url = "/標籤/"
